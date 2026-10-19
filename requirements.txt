@@ -1,0 +1,2 @@
+# No third-party packages are required for the core application.
+# Python 3.10+ recommended. Tkinter must be included in your Python installation.
